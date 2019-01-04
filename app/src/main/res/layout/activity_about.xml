@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutActivity">
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="35dp"
+        android:text="Anna Sewak"
+        android:textColor="#ff0000"
+        android:gravity="center"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Nowadays Indian agriculture sector is in a difficult phase due to the lack of mechanisation and dearth of technological advances.The agricultural sector in India-
+lacks in relevant technical knowledges, produces from low quality of seeds, does use fertilizers and pesticides intelligently, lacks adequate irrigation infrastructure.Along
+with this scientific rotation system of crops is not understood or appreciated in India.Most of the indian farmers plant one crop on the same ground for years. This leads to depletion of soil with specific nutrients, leading to infertility and subsequent decreased yield of the crop.
+So we have developed a bot ANNASEWAK which is an embedded system which will help farmers right from the reaping of the crop to its harvesting and will also
+help in the selling of crop. The main focus of our project is to improve the quality of crop and to increase the income of the farmer. This system start its work from the
+field in which the farmer will sow the seed. In field, it collect the data of the fields such as detection of the level of macronutrients such as nitrogen, phosphorus and
+potassium; detection of moisture level in the field, detection of weeds, insects, and crop diseases; ph value of the field and many more. All these data will be send to the
+azure server from where data will be retrieved by android app which will do the analysis of data. According to its analysis result, it will tell suggestions to the farmer
+to improve the production of crop. Also it will generate alerts according to the need of crop. After the production of crop, our main focus is to help farmer to sell those at
+the effective cost so that farmer can earn maximum profit."
+            android:textColor="#0000ff"
+            />
+
+    </ScrollView>
+
+</LinearLayout>
