@@ -18,19 +18,19 @@
 
         <Button
             android:id="@+id/button5"
-            android:layout_width="170dp"
+            android:layout_width="138dp"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_marginStart="211dp"
-            android:layout_marginLeft="211dp"
-            android:layout_marginTop="412dp"
-            android:layout_marginEnd="30dp"
-            android:layout_marginRight="30dp"
-            android:text="Crop Prediction" />
+            android:layout_marginStart="230dp"
+            android:layout_marginLeft="230dp"
+            android:layout_marginTop="409dp"
+            android:layout_marginEnd="43dp"
+            android:layout_marginRight="43dp"
+            android:text="Extra" />
 
         <Button
             android:id="@+id/button"
@@ -41,12 +41,12 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_marginStart="50dp"
-            android:layout_marginLeft="50dp"
+            android:layout_marginStart="47dp"
+            android:layout_marginLeft="47dp"
             android:layout_marginTop="412dp"
-            android:layout_marginEnd="206dp"
-            android:layout_marginRight="206dp"
-            android:text="Market Price" />
+            android:layout_marginEnd="209dp"
+            android:layout_marginRight="209dp"
+            android:text="Query" />
 
         <ImageView
             android:id="@+id/imageView4"
@@ -74,7 +74,7 @@
             android:layout_marginTop="271dp"
             android:layout_marginEnd="222dp"
             android:layout_marginRight="222dp"
-            android:text="Soil Quality" />
+            android:text="Field Analysis" />
 
         <Button
             android:id="@+id/button2"
@@ -90,7 +90,7 @@
             android:layout_marginTop="342dp"
             android:layout_marginEnd="40dp"
             android:layout_marginRight="40dp"
-            android:text="Field Analysis" />
+            android:text="Crop Prediction" />
 
         <Button
             android:id="@+id/button3"
@@ -106,7 +106,7 @@
             android:layout_marginTop="342dp"
             android:layout_marginEnd="215dp"
             android:layout_marginRight="215dp"
-            android:text="Crop Names" />
+            android:text="Market Price" />
 
         <Button
             android:id="@+id/button4"

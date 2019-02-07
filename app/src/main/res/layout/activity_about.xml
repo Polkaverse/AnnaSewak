@@ -23,6 +23,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:textSize="20dp"
             android:text="Nowadays Indian agriculture sector is in a difficult phase due to the lack of mechanisation and dearth of technological advances.The agricultural sector in India-
 lacks in relevant technical knowledges, produces from low quality of seeds, does use fertilizers and pesticides intelligently, lacks adequate irrigation infrastructure.Along
