@@ -45,6 +45,33 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
+        Button btn3 =(Button)findViewById(R.id.button1);
+        btn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent ip= new Intent(MainActivity.this,FieldActivity.class);
+                startActivity(ip);
+            }
+        });
+
+        Button btn4 =(Button)findViewById(R.id.button2);
+        btn4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent ip= new Intent(MainActivity.this,CropActivity.class);
+                startActivity(ip);
+            }
+        });
+
+        Button btn5 =(Button)findViewById(R.id.button4);
+        btn5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent ip= new Intent(MainActivity.this,CropanalysisActivity.class);
+                startActivity(ip);
+            }
+        });
+
 
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);

@@ -85,11 +85,11 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_marginStart="215dp"
-            android:layout_marginLeft="215dp"
-            android:layout_marginTop="342dp"
-            android:layout_marginEnd="40dp"
-            android:layout_marginRight="40dp"
+            android:layout_marginStart="217dp"
+            android:layout_marginLeft="217dp"
+            android:layout_marginTop="275dp"
+            android:layout_marginEnd="38dp"
+            android:layout_marginRight="38dp"
             android:text="Crop Prediction" />
 
         <Button
@@ -117,11 +117,11 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_marginStart="223dp"
-            android:layout_marginLeft="223dp"
-            android:layout_marginTop="-1dp"
-            android:layout_marginEnd="44dp"
-            android:layout_marginRight="44dp"
+            android:layout_marginStart="225dp"
+            android:layout_marginLeft="225dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginEnd="42dp"
+            android:layout_marginRight="42dp"
             android:text="Crop Analysis" />
 
         <Button

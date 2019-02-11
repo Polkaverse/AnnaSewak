@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MarketActivity"></activity>
+        <activity android:name=".CropanalysisActivity"></activity>
+        <activity android:name=".CropActivity" />
+        <activity android:name=".FieldActivity" />
+        <activity android:name=".MarketActivity" />
         <activity android:name=".QueryActivity" />
         <activity
             android:name=".MainActivity"
